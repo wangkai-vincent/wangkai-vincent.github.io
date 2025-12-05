@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Kai Wang"
-description              : "TeleAI EVOL"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Researcher, TeleAI EVOL"
+repository               : "https://github.com/wangkai-vincent"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kai Wang"
   avatar           : "images/kaiwang.jpg"
-  bio              : "TeleAI EVOL"
+  bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/wangkai-vincent"
   google_plus      :
   keybase          :
   instagram        :
