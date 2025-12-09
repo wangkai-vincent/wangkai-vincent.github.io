@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Kai Wang(王凯), currently a Researcher at TeleAI, focusing on large-scale foundation model security and trustworthy AI. My research centers on building systematic defense mechanisms across the data, model, and applications of modern LLMs. My primary research interests include: Data Provenance, Attribution, and Backtracking; Self-Repairing Large Models & Robustness Enhancement; Personalized & Multi-value Defensive Alignment; Cross-Modal Safety Alignment; Safe Decoding & Risk-Aware Generation.
+I am Kai Wang (王凯), currently a Researcher at TeleAI, focusing on large-scale foundation model security and trustworthy AI. My research centers on building systematic defense mechanisms across the data, model, and applications of modern LLMs. My primary research interests include: Data Provenance, Attribution, and Backtracking; Self-Repairing Large Models & Robustness Enhancement; Personalized & Multi-value Defensive Alignment; Cross-Modal Safety Alignment; Safe Decoding & Risk-Aware Generation.
 
-Before joining TeleAI, I served as a Senior Algorithm Expert at ByteDance and Kuaishou, where I led projects such as Kuaishou KuaYi LLM Security and TikTok Shop Logistics Compliance, contributing to real-world deployment of safe and trustworthy AI systems at scale.
+Before joining TeleAI, I served as a Senior Algorithm Expert at ByteDance and Kuaishou, where I led mission-critical projects such as Kuaishou KuaYi LLM Security and TikTok Shop Logistics Compliance. These systems handled hundreds of millions of requests per day, requiring millisecond-level latency, high-precision risk control, and resilience against continuously evolving adversarial behaviors. Through systematic model–data–rule co-design, the solutions I built achieved industry-leading safety performance and were deployed at global scale, enabling large-model technologies to operate reliably within high-stakes, real-world industrial ecosystems.
 
-During my early career, I received multiple prestigious talent awards, including Huawei TopMinds (华为天才少年), Kuaishou “KuaiStar-X” (快手快Star), Tencent “Qingyun” (腾讯青云), and Meituan “Beidou” (美图北斗). I have published multiple first-author papers in top-tier conferences.
+During my early career, I received multiple prestigious talent awards, including Huawei TopMinds (华为天才少年), Kuaishou “KuaiStar-X” (快手快Star), Tencent “Qingyun” (腾讯青云), and Meituan “Beidou” (美图北斗), and ACM Second Prize Award.
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 I joined TeleAI as a Researcher.
@@ -29,17 +29,14 @@ During my early career, I received multiple prestigious talent awards, including
 # 📝 Publications 
 
 
+[Relational graph attention network for aspect-based sentiment analysis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Kai Wang**, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[Multi-domain dialogue acts and response co-generation](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Kai Wang**, Junfeng Tian, Rui Wang, Xiaojun Quan, Jianxing Yu
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
