@@ -27,7 +27,7 @@ During my early career, I received multiple prestigious talent awards, including
 - *2025.11*: &nbsp;🎉🎉 I joined TeleAI as a Researcher.
 
 # 📝 Selected Publications 
-- **[Relational graph attention network for aspect-based sentiment analysis](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)** **Kai Wang\***, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang.*ACL 2020, CCF-A*  
+- **[Relational graph attention network for aspect-based sentiment analysis](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**.  **Kai Wang\***, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang. *ACL 2020, CCF-A*  
 
 - #### **[Multi-domain dialogue acts and response co-generation](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**  
 **Kai Wang\***, Junfeng Tian, Rui Wang, Xiaojun Quan, Jianxing Yu.
