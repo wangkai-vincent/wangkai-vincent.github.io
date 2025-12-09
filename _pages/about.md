@@ -21,7 +21,7 @@ I am Kai Wang (王凯), currently a Researcher at TeleAI, focusing on large-scal
 
 Before joining TeleAI, I served as a Senior Algorithm Expert at ByteDance and Kuaishou, where I led mission-critical projects such as Kuaishou KuaYi LLM Security and TikTok Shop Logistics Compliance. These systems handled hundreds of millions of requests per day, requiring millisecond-level latency, high-precision risk control, and resilience against continuously evolving adversarial behaviors. Through systematic model–data–rule co-design, the solutions I built achieved industry-leading safety performance and were deployed at global scale, enabling large-model technologies to operate reliably within high-stakes, real-world industrial ecosystems.
 
-During my early career, I received multiple prestigious talent awards, including Huawei TopMinds (华为天才少年), Kuaishou “KuaiStar-X” (快手快Star), Tencent “Qingyun” (腾讯青云), and Meituan “Beidou” (美图北斗), and ACM Second Prize Award.
+During my early career, I received multiple prestigious talent awards, including Huawei TopMinds (华为天才少年), Kuaishou “KuaiStar-X” (快手快Star), Tencent “Qingyun” (腾讯青云), and Meituan “Beidou” (美团北斗), and ACM Second Prize Award.
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 I joined TeleAI as a Researcher.
