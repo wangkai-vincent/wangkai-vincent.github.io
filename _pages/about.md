@@ -26,23 +26,25 @@ During my early career, I received multiple prestigious talent awards, including
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 I joined TeleAI as a Researcher.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 #### **[Relational graph attention network for aspect-based sentiment analysis](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**  
 **Kai Wang\***, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang
 *ACL 2020, CCF-A*  
 
-[Relational graph attention network for aspect-based sentiment analysis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)
+#### **[Multi-domain dialogue acts and response co-generation](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**  
+**Kai Wang\***, Junfeng Tian, Rui Wang, Xiaojun Quan, Jianxing Yu
+*ACL 2020, CCF-A*  
 
-**Kai Wang**, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang
+#### **[Bi-directional Selective Encoding with Template for Abstractive Summarization](https://aclanthology.org/anthology-files/pdf/P/P19/P19-1207.pdf)**  
+**Kai Wang\***, Xiaojun Quan, Rui Wang
+*ACL 2019, CCF-A*  
 
-
-[Multi-domain dialogue acts and response co-generation](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)
-
-**Kai Wang**, Junfeng Tian, Rui Wang, Xiaojun Quan, Jianxing Yu
+#### **[Low-resource generation of multi-hop reasoning questions](https://aclanthology.org/anthology-files/pdf/acl/2020.acl-main.601.pdf)**  
+Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, **Kai Wang\***, Xiaojun Quan, Jian Yin
+*ACL 2020, CCF-A*  
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- National Scholarship
 
 # 📖 Educations
 - *2018.09 - 2021.06*, Master of Computer Science and Technology, Sun Yat-sen University
@@ -55,6 +57,6 @@ During my early career, I received multiple prestigious talent awards, including
 - NLPCC 2018, Reviewer
 
 # 💻 Internships
-- *2020.04 - 2020.09*, Tencent AI LAB(腾讯AI LAB), China.
-- *2019.07 - 2019.12*, Alibaba DAMO Academy(阿里巴巴达摩院), China.
-- *2017.03 - 2017.07*, Baidu(百度), China.
+- *2020.04 - 2020.09*, Tencent AI LAB (腾讯AI LAB), China.
+- *2019.07 - 2019.12*, Alibaba DAMO Academy (阿里巴巴达摩院), China.
+- *2017.03 - 2017.07*, Baidu (百度), China.
