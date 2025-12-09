@@ -29,17 +29,11 @@ During my early career, I received multiple prestigious talent awards, including
 # 📝 Selected Publications 
 - **[Relational graph attention network for aspect-based sentiment analysis](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**.  **Kai Wang\***, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang. *ACL 2020, CCF-A*  
 
-- #### **[Multi-domain dialogue acts and response co-generation](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**  
-**Kai Wang\***, Junfeng Tian, Rui Wang, Xiaojun Quan, Jianxing Yu.
-*ACL 2020, CCF-A*  
+- **[Multi-domain dialogue acts and response co-generation](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**.  **Kai Wang\***, Junfeng Tian, Rui Wang, Xiaojun Quan, Jianxing Yu. *ACL 2020, CCF-A*  
 
-- #### **[Bi-directional Selective Encoding with Template for Abstractive Summarization](https://aclanthology.org/anthology-files/pdf/P/P19/P19-1207.pdf)**  
-**Kai Wang\***, Xiaojun Quan, Rui Wang.
-*ACL 2019, CCF-A*  
+- **[Bi-directional Selective Encoding with Template for Abstractive Summarization](https://aclanthology.org/anthology-files/pdf/P/P19/P19-1207.pdf)**.  **Kai Wang\***, Xiaojun Quan, Rui Wang. *ACL 2019, CCF-A*  
 
-- #### **[Low-resource generation of multi-hop reasoning questions](https://aclanthology.org/anthology-files/pdf/acl/2020.acl-main.601.pdf)**  
-Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, **Kai Wang\***, Xiaojun Quan, Jian Yin.
-*ACL 2020, CCF-A*  
+- **[Low-resource generation of multi-hop reasoning questions](https://aclanthology.org/anthology-files/pdf/acl/2020.acl-main.601.pdf)**.  Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, **Kai Wang\***, Xiaojun Quan, Jian Yin. *ACL 2020, CCF-A*  
 
 # 🎖 Honors and Awards
 - National Scholarship
