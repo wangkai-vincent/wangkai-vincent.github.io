@@ -27,7 +27,7 @@ During my early career, I received multiple prestigious talent awards, including
 - *2025.11*: &nbsp;🎉🎉 I joined TeleAI as a Researcher.
 
 # 📝 Selected Publications 
-- **[Understanding Training Data Attribution in RLVR: From the Perspective of Causal Inference]([https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf](https://aclanthology.org/2026.findings-emnlp.2023.pdf))**.  Chi Zhang, Jian Zhao, Wei Wang, **Kai Wang\***, Yao Zhao, Xuelong Li. *EMNLP FINDINGS 2026, CCF-B*
+- **[Understanding Training Data Attribution in RLVR: From the Perspective of Causal Inference](https://aclanthology.org/2026.findings-emnlp.2023.pdf)**.  Chi Zhang, Jian Zhao, Wei Wang, **Kai Wang\***, Yao Zhao, Xuelong Li. *EMNLP FINDINGS 2026, CCF-B*
   
 - **[Relational graph attention network for aspect-based sentiment analysis](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2020.acl-main.295.pdf)**.  **Kai Wang\***, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang. *ACL 2020, CCF-A*  
 
